@@ -1,0 +1,3 @@
+Compile code with this command:
+
+gcc -o smallsh smallsh.c
